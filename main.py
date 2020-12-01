@@ -8,4 +8,6 @@ Created on Sun Nov 29 19:48:53 2020
 
 apikey = 'JHNRDQM3HA7WWF08'
 
+print('Turning printer on...')
 print('brrrrrr')
+print('Shutting down printer...')
